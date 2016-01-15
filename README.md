@@ -17,7 +17,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kazukgw/coa"
+	"github.com/winespace/coa"
 )
 
 type Context struct {

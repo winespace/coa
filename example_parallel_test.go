@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/kazukgw/coa"
+	"github.com/winespace/coa"
 )
 
 type ParallelableGroup struct {

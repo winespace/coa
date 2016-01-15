@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/kazukgw/coa"
-	"github.com/kazukgw/coa/web"
+	"github.com/winespace/coa"
+	"github.com/winespace/coa/web"
 )
 
 type ResultActionHandler struct {

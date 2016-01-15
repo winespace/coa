@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 
-	"github.com/kazukgw/coa"
-	"github.com/kazukgw/coa/web"
+	"github.com/winespace/coa"
+	"github.com/winespace/coa/web"
 )
 
 type ErrorHandler struct {

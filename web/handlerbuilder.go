@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/kazukgw/coa"
+	"github.com/winespace/coa"
 )
 
 type HandlerBuilder struct {

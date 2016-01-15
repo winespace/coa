@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kazukgw/coa"
+	"github.com/winespace/coa"
 )
 
 // Fieldの上から順にAction interface を実装するものが実行される

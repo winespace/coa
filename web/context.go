@@ -3,7 +3,7 @@ package web
 import (
 	"net/http"
 
-	"github.com/kazukgw/coa"
+	"github.com/winespace/coa"
 )
 
 type Context interface {

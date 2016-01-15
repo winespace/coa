@@ -4,7 +4,7 @@ import (
 	"reflect"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kazukgw/coa"
+	"github.com/winespace/coa"
 )
 
 type GinHandlerBuilder struct {

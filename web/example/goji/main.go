@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kazukgw/coa/web"
+	"github.com/winespace/coa/web"
 	"github.com/zenazn/goji"
 )
 

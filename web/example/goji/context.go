@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/kazukgw/coa"
-	coaweb "github.com/kazukgw/coa/web"
+	"github.com/winespace/coa"
+	coaweb "github.com/winespace/coa/web"
 	"github.com/zenazn/goji/web"
 )
 

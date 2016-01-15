@@ -3,7 +3,7 @@ package coa_test
 import (
 	"fmt"
 
-	"github.com/kazukgw/coa"
+	"github.com/winespace/coa"
 )
 
 type RepeatableGroup struct {

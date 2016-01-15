@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/kazukgw/coa"
+	"github.com/winespace/coa"
 )
 
 type ActionError struct {
